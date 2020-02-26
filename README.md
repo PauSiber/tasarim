@@ -20,7 +20,7 @@
 </p>
 
 ### `in-this-week-pausiber`
-> [`psd-template`]()
+> [`psd-template`](https://github.com/PauSiber/tasarim/blob/master/images/in-this-week-pausiber/in-this-week-pausiber.psd)
 
 <p align="center">
 	<img alt="pausiber-twitter-banner" src="/images/in-this-week-pausiber/in-this-week-pausiber-example.png" width="600">
