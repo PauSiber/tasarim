@@ -18,3 +18,10 @@
 <p align="center">
 	<img alt="pausiber-twitter-banner" src="/images/pausiber-twitter-banner.png" width="600">
 </p>
+
+### `in-this-week-pausiber`
+> [`psd-template`]()
+
+<p align="center">
+	<img alt="pausiber-twitter-banner" src="/images/in-this-week-pausiber/in-this-week-pausiber-example.png" width="600">
+</p>
