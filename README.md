@@ -23,5 +23,12 @@
 > [`psd-template`](https://github.com/PauSiber/tasarim/blob/master/images/in-this-week-pausiber/in-this-week-pausiber.psd)
 
 <p align="center">
-	<img alt="pausiber-twitter-banner" src="/images/in-this-week-pausiber/in-this-week-pausiber-example.png" width="600">
+	<img alt="in-this-week-pausiber" src="/images/in-this-week-pausiber/in-this-week-pausiber-example.png" width="600">
+</p>
+
+### `pausiber-pankart-2020`
+> [`psd-file`](https://github.com/PauSiber/tasarim/blob/master/images/pausiber-pankart/pausiber-pankart.psd)
+
+<p align="center">
+	<img alt="pausiber-pankart" src="/images/pausiber-pankart/pausiber-pankart.png" width="600">
 </p>
