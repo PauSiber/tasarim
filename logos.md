@@ -35,4 +35,10 @@
 	<img alt="pausiber-logo" src="images/logos/patches/pausiber-logo-ana-grup.png" width="350">
 </p>
 
+### [`Pausiber-Logo-Önemli-Konular`](images/logos/patches/pausiber-logo-onemli-konular.png)
+
+<p align="center">
+	<img alt="pausiber-logo" src="images/logos/patches/pausiber-logo-onemli-konular.png" width="350">
+</p>
+
 
