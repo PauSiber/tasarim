@@ -17,3 +17,8 @@
 <p align="center">
 	<img alt="pausiber-isim" src="images/logos/pausiber-isim.png" width="400">
 </p>
+
+### [`Pausiber-Anahtar`](images/logos/pausiber-key-logo.png)
+<p align="center">
+	<img alt="pausiber-isim" src="images/logos/pausiber-key-logo.png" width="400">
+</p>
