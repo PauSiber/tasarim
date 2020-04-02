@@ -23,3 +23,11 @@
 <p align="center">
 	<img alt="pausiber-logo" src="images/posters/cyber-talk/cyber-talk-duvar-gorseli.png" width="350">
 </p>
+
+### [`Tanınışma Etkinliği-2019`](images/posters/tanisma-etkinligi/tanisma-etkinligi.png)
+
+> [`psd-file`](images/posters/tanisma-etkinligi/tanisma-etkinligi-2019.psd)
+
+<p align="center">
+	<img alt="pausiber-logo" src="images/posters/tanisma-etkinligi/tanisma-etkinligi.png" width="350">
+</p>
