@@ -2,7 +2,7 @@
 
 <p align="center">
 	<a href="/logos.md">
-		<img alt="in-this-week-pausiber" src="images/logos/logo-preview.png" width="600">
+		<img alt="in-this-week-pausiber" src="images/logos/logo-preview.png" width="800">
 	</a>
 </p>
 
