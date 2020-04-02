@@ -41,4 +41,10 @@
 	<img alt="pausiber-logo" src="images/logos/patches/pausiber-logo-onemli-konular.png" width="350">
 </p>
 
+### [`Pausiber-Logo-Çekirdek`](images/logos/patches/pausiber-logo-cekirdek.png)
 
+> [`psd-file`](images/logos/patches/pausiber-logo-cekirdek.psd)
+
+<p align="center">
+	<img alt="pausiber-logo" src="images/logos/patches/pausiber-logo-cekirdek.png" width="350">
+</p>
