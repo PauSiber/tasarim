@@ -2,7 +2,7 @@
 
 ### [`Pausiber-Logo`](https://raw.githubusercontent.com/PauSiber/tasarim/master/images/pausiber-logo.png)
 
-> [`psd-file`](images/logos/pausiber-logo.psd)
+> [`psd-file`](images/logos/pausiber-logo-2019.psd)
 
 <p align="center">
 	<img alt="pausiber-logo" src="images/logos/pausiber-logo.png" width="350">
