@@ -1,6 +1,10 @@
-## Logos 
+ ## [`Pausiber Logos `](/logos.md)
 
-
+<p align="center">
+	<a href="/logos.md">
+		<img alt="in-this-week-pausiber" src="images/logos/logo-preview.png" width="600">
+	</a>
+</p>
 
 ### `Pausiber-Twitter-Banner`
 <p align="center">
