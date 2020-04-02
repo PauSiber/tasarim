@@ -18,7 +18,21 @@
 	<img alt="pausiber-isim" src="images/logos/pausiber-isim.png" width="400">
 </p>
 
+---
+
 ### [`Pausiber-Anahtar`](images/logos/pausiber-key-logo.png)
 <p align="center">
 	<img alt="pausiber-isim" src="images/logos/pausiber-key-logo.png" width="400">
 </p>
+
+---
+
+### [`Pausiber-Logo-Ana-Grup`](images/logos/patches/pausiber-logo-ana-grup.png)
+
+> [`psd-file`](images/logos/patches/pausiber-logo-ana-grup.psd)
+
+<p align="center">
+	<img alt="pausiber-logo" src="images/logos/patches/pausiber-logo-ana-grup.png" width="350">
+</p>
+
+
