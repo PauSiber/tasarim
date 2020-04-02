@@ -2,6 +2,8 @@
 
 ### [`Pausiber-Logo`](https://raw.githubusercontent.com/PauSiber/tasarim/master/images/pausiber-logo.png)
 
+> [`psd-file`](images/pausiber-logo.psd)
+
 <p align="center">
 	<img alt="pausiber-logo" src="images/pausiber-logo.png" width="350">
 </p>
