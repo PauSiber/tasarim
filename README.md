@@ -22,16 +22,27 @@
 	</a>
 </p>
 
+## [`Pausiber Announcements`](/announcements.md)
+
+<p align="center">
+	<a href="/announcements.md">
+		<img alt="poster-preview" src="images/announcements/announcment-preview.png" width="800">
+	</a>
+</p>
+
+
+
+
+
+
+
+
+
+
+
 ### `Pausiber-Twitter-Banner`
 <p align="center">
 	<img alt="pausiber-twitter-banner" src="images/pausiber-twitter-banner.png" width="600">
-</p>
-
-### `in-this-week-pausiber`
-> [`psd-template`](https://github.com/PauSiber/tasarim/blob/master/images/in-this-week-pausiber/in-this-week-pausiber.psd)
-
-<p align="center">
-	<img alt="in-this-week-pausiber" src="images/in-this-week-pausiber/in-this-week-pausiber-example.png" width="600">
 </p>
 
 ### `pausiber-pankart-2020`
