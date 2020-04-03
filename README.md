@@ -2,7 +2,15 @@
 
 <p align="center">
 	<a href="/logos.md">
-		<img alt="in-this-week-pausiber" src="images/logos/logo-preview.png" width="800">
+		<img alt="logo-preview" src="images/logos/logo-preview.png" width="800">
+	</a>
+</p>
+
+ ## [`Pausiber Posters `](/posters.md)
+
+<p align="center">
+	<a href="/logos.md">
+		<img alt="poster-preview" src="images/posters/poster-preview.png" width="800">
 	</a>
 </p>
 
