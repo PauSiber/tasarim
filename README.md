@@ -14,13 +14,6 @@
 	</a>
 </p>
 
-## [`Pausiber Textile Products  `](/textile-products.md)
-
-<p align="center">
-	<a href="/textile-products.md">
-		<img alt="poster-preview" src="images/textile-products/black-pausiber-tshirts.png" width="350">
-	</a>
-</p>
 
 ## [`Pausiber Announcements`](/announcements.md)
 
@@ -30,19 +23,17 @@
 	</a>
 </p>
 
-
-
-
-
-
-
-
-
-
-
 ### `Pausiber-Twitter-Banner`
 <p align="center">
 	<img alt="pausiber-twitter-banner" src="images/pausiber-twitter-banner.png" width="600">
+</p>
+
+## [`Pausiber Textile Products`](/textile-products.md)
+
+<p align="center">
+	<a href="/textile-products.md">
+		<img alt="poster-preview" src="images/textile-products/black-pausiber-tshirts.png" width="350">
+	</a>
 </p>
 
 ### `pausiber-pankart-2020`
