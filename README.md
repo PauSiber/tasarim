@@ -18,7 +18,7 @@
 
 <p align="center">
 	<a href="/textile-products.md">
-		<img alt="poster-preview" src="images/textile-products/black-pausiber-tshirts.png" width="250">
+		<img alt="poster-preview" src="images/textile-products/black-pausiber-tshirts.png" width="350">
 	</a>
 </p>
 
