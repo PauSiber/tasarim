@@ -1,4 +1,4 @@
- ## [`Pausiber Logos `](/logos.md)
+## [`Pausiber Logos `](/logos.md)
 
 <p align="center">
 	<a href="/logos.md">
@@ -6,11 +6,19 @@
 	</a>
 </p>
 
- ## [`Pausiber Posters `](/posters.md)
+## [`Pausiber Posters `](/posters.md)
 
 <p align="center">
 	<a href="/posters.md">
 		<img alt="poster-preview" src="images/posters/poster-preview.png" width="800">
+	</a>
+</p>
+
+## [`Pausiber Textile Products  `](/textile-products.md)
+
+<p align="center">
+	<a href="/textile-products.md">
+		<img alt="poster-preview" src="images/textile-products/black-pausiber-tshirts.png" width="250">
 	</a>
 </p>
 
