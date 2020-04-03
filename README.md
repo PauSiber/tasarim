@@ -28,7 +28,7 @@
 
 <p align="center">
 	<a href="social-media-designs.md">
-		<img alt="social-media-preview" src="images/social-media-designs/twitter/pausiber-twitter-banner.png" width="500">
+		<img alt="social-media-preview" src="images/social-media-designs/twitter/pausiber-twitter-banner.png" width="600">
 	</a>
 </p>
 
@@ -40,9 +40,12 @@
 	</a>
 </p>
 
-### `pausiber-pankart-2020`
-> [`psd-file`](https://github.com/PauSiber/tasarim/blob/master/images/pausiber-pankart/pausiber-pankart.psd)
+## [`Pausiber Printed Designs`](printed-designs.md)
 
 <p align="center">
-	<img alt="pausiber-pankart" src="images/pausiber-pankart/pausiber-pankart.png" width="600">
+	<a href="printed-designs.md">
+		<img alt="printed-designs-preview" src="images/printed-design/pausiber-pankart/pausiber-pankart.png" width="600">
+	</a>
 </p>
+
+
