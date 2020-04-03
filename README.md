@@ -9,7 +9,7 @@
  ## [`Pausiber Posters `](/posters.md)
 
 <p align="center">
-	<a href="/logos.md">
+	<a href="/posters.md">
 		<img alt="poster-preview" src="images/posters/poster-preview.png" width="800">
 	</a>
 </p>
