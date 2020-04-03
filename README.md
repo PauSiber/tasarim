@@ -23,9 +23,13 @@
 	</a>
 </p>
 
-### `Pausiber-Twitter-Banner`
+
+## [`Pausiber Social Media Designs`](/social-media-designs.md)
+
 <p align="center">
-	<img alt="pausiber-twitter-banner" src="images/pausiber-twitter-banner.png" width="600">
+	<a href="social-media-designs.md">
+		<img alt="social-media-preview" src="images/social-media-designs/twitter/pausiber-twitter-banner.png" width="500">
+	</a>
 </p>
 
 ## [`Pausiber Textile Products`](/textile-products.md)
