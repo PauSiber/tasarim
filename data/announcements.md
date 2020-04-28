@@ -34,3 +34,18 @@
 <p align="center">
 	<img alt="30-agustos" src="images/announcements/holiday-announcements/30-agustos/30_agustos.png" width="350">
 </p>
+
+### `23 Nisan Ulusal Egemenlik ve Çocuk Bayramı`
+
+> [`psd-file`](images/announcements/holiday-announcements/23-nisan/23-nisan-twitter.psd)
+
+<p align="center">
+	<img alt="23-nisan-twitter" src="images/announcements/holiday-announcements/23-nisan/23-nisan-twitter.png" width="350">
+</p>
+
+
+> [`instagram-psd-file`](images/announcements/holiday-announcements/23-nisan/23_nisan_insta.psd)
+
+<p align="center">
+	<img alt="23-nisan-instagram" src="images/announcements/holiday-announcements/23-nisan/23-nisan-insta.png" width="350">
+</p>
