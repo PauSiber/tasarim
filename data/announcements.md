@@ -12,7 +12,7 @@
 > [`psd-file`](images/announcements/holiday-announcements/29-ekim/29_ekim.psd)
 
 <p align="center">
-	<img alt="pausiber-logo" src="images/announcements/holiday-announcements/29-ekim/29_ekim.png" width="350">
+	<img alt="pausiber-logo" src="images/announcements/holiday-announcements/29-ekim/29_ekim.png" width="600">
 </p>
 
 
@@ -32,5 +32,20 @@
 ### [`30 Ağustos Zafer Bayramı`](images/announcements/holiday-announcements/30-agustos/30_agustos.png)
 
 <p align="center">
-	<img alt="30-agustos" src="images/announcements/holiday-announcements/30-agustos/30_agustos.png" width="350">
+	<img alt="30-agustos" src="images/announcements/holiday-announcements/30-agustos/30_agustos.png" width="600">
+</p>
+
+### `23 Nisan Ulusal Egemenlik ve Çocuk Bayramı`
+
+> [`psd-file`](images/announcements/holiday-announcements/23-nisan/23-nisan-twitter.psd)
+
+<p align="center">
+	<img alt="23-nisan-twitter" src="images/announcements/holiday-announcements/23-nisan/23-nisan-twitter.png" width="600">
+</p>
+
+
+> [`instagram-psd-file`](images/announcements/holiday-announcements/23-nisan/23_nisan_insta.psd)
+
+<p align="center">
+	<img alt="23-nisan-instagram" src="images/announcements/holiday-announcements/23-nisan/23-nisan-insta.png" width="350">
 </p>
