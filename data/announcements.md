@@ -35,6 +35,13 @@
 	<img alt="30-agustos" src="images/announcements/holiday-announcements/30-agustos/30_agustos.png" width="600">
 </p>
 
+### [`30 Ağustos Zafer Bayramı - 2020`](images/announcements/holiday-announcements/30-agustos-2020/30_agustos-2020.png)
+> [`psd-template`](images/announcements/holiday-announcements/30-agustos-2020/30_agustos-2020.psd)
+
+<p align="center">
+	<img alt="30_agustos-2020.png" src="images/announcements/holiday-announcements/30-agustos-2020/30_agustos-2020.png" width="600">
+</p>
+
 ### `23 Nisan Ulusal Egemenlik ve Çocuk Bayramı`
 
 > [`psd-file`](images/announcements/holiday-announcements/23-nisan/23-nisan-twitter.psd)
