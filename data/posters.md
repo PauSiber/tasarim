@@ -24,10 +24,15 @@
 	<img alt="pausiber-logo" src="images/posters/cyber-talk/cyber-talk-duvar-gorseli.png" width="350">
 </p>
 
-### [`Tanınışma Etkinliği-2019`](images/posters/tanisma-etkinligi/tanisma-etkinligi.png)
+### [`Tanışma Etkinliği`](images/posters/tanisma-etkinligi/)
 
-> [`psd-file`](images/posters/tanisma-etkinligi/tanisma-etkinligi-2019.psd)
-
-<p align="center">
-	<img alt="pausiber-logo" src="images/posters/tanisma-etkinligi/tanisma-etkinligi.png" width="350">
-</p>
+<table align=center>
+  <tr>
+    <td><img src="images/posters/tanisma-etkinligi/tanisma-etkinligi.png" width=350 ></td>
+     <td><img src="images/posters/tanisma-etkinligi/tanisma-etkinligi-2020.png" width=350></td>
+  </tr>
+  <tr>
+    <td> <a href="images/posters/tanisma-etkinligi/tanisma-etkinligi-2019.psd">> psd-file</a> </td>
+    <td> <a href="images/posters/tanisma-etkinligi/tanisma-etkinligi-2020.psd">> psd-file</a> </td>
+  </tr>
+ </table>
