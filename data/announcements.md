@@ -56,3 +56,9 @@
 <p align="center">
 	<img alt="23-nisan-instagram" src="images/announcements/holiday-announcements/23-nisan/23-nisan-insta.png" width="350">
 </p>
+
+> [`instagram-psd-file`](images/announcements/10kasim/10kasim.psd)
+
+<p align="center">
+	<img alt="23-nisan-instagram" src="images/announcements/10kasim/10kasim.png" >
+</p>
